@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rubiks/static/css/main.6f21b472.css",
+    "main.js": "/Rubiks/static/js/main.43a9cc8a.js",
+    "index.html": "/Rubiks/index.html",
+    "main.6f21b472.css.map": "/Rubiks/static/css/main.6f21b472.css.map",
+    "main.43a9cc8a.js.map": "/Rubiks/static/js/main.43a9cc8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f21b472.css",
+    "static/js/main.43a9cc8a.js"
+  ]
+}
